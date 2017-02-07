@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index f292ae3..218675b 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # wiki
+ 记录学习笔记
++patch
++patch2
